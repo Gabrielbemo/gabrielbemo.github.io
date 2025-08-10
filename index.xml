@@ -13,8 +13,7 @@
       <link>https://gabrielbemo.github.io/posts/principais-metodos-http/</link>
       <pubDate>Sun, 10 Aug 2025 04:00:00 +0000</pubDate>
       <guid>https://gabrielbemo.github.io/posts/principais-metodos-http/</guid>
-      <description>&lt;h1 id=&#34;métodos-https-mais-conhecidos&#34;&gt;Métodos HTTPS Mais Conhecidos&lt;/h1&gt;
-&lt;p&gt;Métodos HTTPS são ações usadas para indicar o tipo de operação que um cliente deseja realizar em um recurso da web, como buscar, enviar ou modificar dados. Veja os métodos mais comuns:&lt;/p&gt;
+      <description>&lt;p&gt;Métodos HTTPS são ações usadas para indicar o tipo de operação que um cliente deseja realizar em um recurso da web, como buscar, enviar ou modificar dados. Veja os métodos mais comuns:&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;get&#34;&gt;GET&lt;/h2&gt;
 &lt;ul&gt;
